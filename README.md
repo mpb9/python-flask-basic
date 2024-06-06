@@ -38,7 +38,7 @@ if __name__ == "__main__":
 `(myenv) $ mv app.py my_pkg/__init__.py`
 
 4. Run Flask Project (Terminal - MacOS)
-`(myenv) $ python3 -m flask --app my_pkg >=run --port 8000 --debug`
+`(myenv) $ python3 -m flask --app my_pkg run --port 8000 --debug`
 
 ## Incorporate Application Factory + Blueprints
 
