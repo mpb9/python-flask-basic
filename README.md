@@ -48,7 +48,7 @@ from flask import Flask
 
 def create_app():
 	app = Flask(__name__)
-	return app*=
+	return app
 ```
 
 2. Create modules that contain related views that are conveniently imported in **__init __ .py**.
